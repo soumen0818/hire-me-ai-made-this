@@ -2,7 +2,7 @@
 
 > Transform your ideas into a stunning portfolio website using AI - No coding experience required!
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://your-portfolio-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://buildfolio-workshop.vercel.app/)
 [![Built with Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![Styled with Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
 [![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black)](https://vercel.com)
