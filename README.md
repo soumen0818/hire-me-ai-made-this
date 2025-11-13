@@ -1,4 +1,4 @@
-# 🚀 BuildFolio Workshop - AI-Powered Portfolio Builder
+#  BuildFolio Workshop - AI-Powered Portfolio Builder
 
 > Transform your ideas into a stunning portfolio website using AI - No coding experience required!
 
