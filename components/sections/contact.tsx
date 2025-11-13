@@ -153,22 +153,6 @@ export default function Contact() {
             </form>
           </div>
         </div>
-
-        {/* Contact info */}
-        <div className="mt-12 grid md:grid-cols-3 gap-6 text-center">
-          <div>
-            <p className="text-cyan-300 font-mono text-sm mb-2">EMAIL</p>
-            <p className="text-white">jayendradas1108@gmail.com</p>
-          </div>
-          <div>
-            <p className="text-cyan-300 font-mono text-sm mb-2">LOCATION</p>
-            <p className="text-white">Kolkata, West Bengal</p>
-          </div>
-          <div>
-            <p className="text-cyan-300 font-mono text-sm mb-2">STATUS</p>
-            <p className="text-white">Open to Opportunities</p>
-          </div>
-        </div>
       </div>
     </section>
   )
