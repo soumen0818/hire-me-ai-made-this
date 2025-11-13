@@ -134,24 +134,24 @@ export default function Projects() {
                       href={project.github}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 text-purple-300 hover:text-cyan-300 transition-colors text-sm font-mono"
+                      className="text-purple-300 hover:text-cyan-300 transition-colors hover:scale-110 transform duration-200"
+                      title="View on GitHub"
                     >
-                      <div className="w-4 h-4">
+                      <div className="w-5 h-5">
                         <GithubIcon />
                       </div>
-                      GitHub
                     </a>
                     {project.live && (
                       <a
                         href={project.live}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex items-center gap-2 text-purple-300 hover:text-cyan-300 transition-colors text-sm font-mono"
+                        className="text-purple-300 hover:text-cyan-300 transition-colors hover:scale-110 transform duration-200"
+                        title="View Live Demo"
                       >
-                        <div className="w-4 h-4">
+                        <div className="w-5 h-5">
                           <ExternalLinkIcon />
                         </div>
-                        Live
                       </a>
                     )}
                   </div>
