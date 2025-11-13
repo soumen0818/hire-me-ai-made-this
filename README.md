@@ -520,7 +520,7 @@ npm install
 
 ## 📞 Need Help?
 
-- 💬 [Open an Issue](https://github.com/yourusername/your-repo/issues)
+- 💬 [Open an Issue](https://github.com/soumen0818/hire-me-ai-made-this/issues)
 - 📧 Email: dassoumen0818@gmail.com
 - 🐦 Twitter: [Twitter](https://x.com/SoumenDas334584)
 - 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/soumen-das-76b867218/)
