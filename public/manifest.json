@@ -1,0 +1,17 @@
+{
+    "name": "Soumen Das Portfolio",
+    "short_name": "SD Portfolio",
+    "description": "Full Stack Developer Portfolio showcasing projects and skills",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#22d3ee",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        }
+    ]
+}
